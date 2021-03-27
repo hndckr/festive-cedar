@@ -1,8 +1,8 @@
 ---
-title: adsdasdas
+title: sdjkfhjkdsf
 subtitle: asdasdasd
 date: 2021-03-27T11:21:39.828Z
-thumb_img_path: /images/10.jpg
+thumb_img_path: /images/1.jpg
 thumb_img_alt: asdasdas
 content_img_path: /images/avatar.png
 excerpt: asdasd
